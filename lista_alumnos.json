@@ -1,0 +1,46 @@
+[
+    {
+        "item_id": 1,
+        "matricula": 91810190,
+        "nombre": "Micheli Anay",
+        "apaterno": "Lopez ",
+        "amaterno": "Vazquez",
+        "edad": 20,
+        "correo": "lvmicheli472@gmail.com ",
+        "telefono": 9191563826,
+        "carrera": "RIyC"
+    },
+    {
+        "item_id": 2,
+        "matricula": 91810589,
+        "nombre": "Jorge Gabiel",
+        "apaterno": "Rosales",
+        "amaterno": "Lopez",
+        "edad": 21,
+        "correo": "coquirosales696@gmail.com",
+        "telefono": 9191686827,
+        "carrera": "RIyC"
+    },
+    {
+        "item_id": 3,
+        "matricula": 91810098,
+        "nombre": "Irma orquidea",
+        "apaterno": "Gutierrez ",
+        "amaterno": "Cruz",
+        "edad": 21,
+        "correo": "irmaorquideagutierrez@hotmail.com",
+        "telefono": 9191429528,
+        "carrera": "RIyC"
+    },
+    {
+        "item_id": 4,
+        "matricula": 91810789,
+        "nombre": "Juana",
+        "apaterno": "Vazquez",
+        "amaterno": "Mendez",
+        "edad": 24,
+        "correo": "juanamendez@gmail.com",
+        "telefono": 916137890,
+        "carrera": "RIrC"
+    }
+]
